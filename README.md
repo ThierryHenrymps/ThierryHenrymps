@@ -60,6 +60,10 @@ Plataforma de livros digitais com API, gerenciamento de livros e autenticação.
 
 [![GitHub](https://img.shields.io/badge/Ver_Projeto-222222?style=for-the-badge&logo=github)](https://github.com/ThierryHenrymps/VickBook)
 
+### Tower Rush
+Jogo mobile desenvolvido para o Bootcamp Itaú, utilizando Kotlin e Jetpack Compose. O projeto explora mecânicas de empilhamento de blocos, progressão de pontuação e recursos interativos.
+
+[![GitHub](https://img.shields.io/badge/Ver_Projeto-222222?style=for-the-badge&logo=github)](https://github.com/ThierryHenrymps/tower-rush)
 
 ## 📚 Formação e estudos
 
@@ -67,6 +71,7 @@ Plataforma de livros digitais com API, gerenciamento de livros e autenticação.
 - Formação Front-end: HTML, CSS, JavaScript, React e + — Udemy
 - Java + Spring Boot — Udemy
 - APIs REST, JPA, JWT e OAuth2
+- Bootcamp Itaú — Java com Inteligência Artificial
 
 ---
 
